@@ -1,0 +1,11 @@
+name: "investigrafias"
+output_dir: "."
+navbar:
+  title: "INVESTIGRAFÍAS"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Proyectos"
+      href: proyectos.html
+    - text: "Contacto"
+      href: about.html
