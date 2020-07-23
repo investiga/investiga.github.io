@@ -1,7 +1,7 @@
-name: "investigrafias"
+name: "Grupo de Investigación Suma Yuyai"
 output_dir: "."
 navbar:
-  title: "SUMA YUYAI"
+  title: "Suma Yuyai"
   left:
     - text: "Inicio"
       href: index.html

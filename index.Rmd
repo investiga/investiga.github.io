@@ -2,6 +2,49 @@
 title: "*Suma Yuyai*"
 ---
 
-Sitio web de Investigrafías, Grupo de Investigación en comunicación y ciencia de datos.
+Sitio electrónico de *Suma Yuyai*, grupo transdisciplinario de investigación científica y tecnológica. Este grupo se creó en el año 2013 como propuesta alternativa para la generación y aplicación de conocimientos desde una perspectiva diversa e incluyente. De allí resulta su carácter esencialmente inter y transdisciplinar.
 
-Investigrafías nace en 2019 como un grupo avalado por la Fundación Ridcharí Indígena.
+Es un colectivo avalado por la Fundación Ridcharí Indígena, organización sin ánimo de lucro que busca mejorar la calidad de vida y la participación ciudadana de las poblaciones más vulnerables socialmente, empresarios y comunidades a través de la implementación de planes, programas y proyectos de diversa índole, que posibiliten el bienestar comunitario y el desarrollo sostenible en los ámbitos de acción, organización y producción humana.
+
+[*Suma Yuyai*](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000021049) cuenta con registro en el Ministerio de Ciencia, Tecnología e Innovación y espera ser categorizado en la próxima convocatoria que efectúe el ministerio.
+
+## Plan estratégico
+
+### Plan de trabajo 
+Este plan se proyecta para la década 2015-2024, dentro de la cual se proponen dos etapas para su ejecución. Durante la primera, correspondiente al lustro 2015-2019, se pretende 1) avanzar en el reconocimiento institucional del grupo de investigación; 2) realizar alianzas que promuevan actividades de pesquisa con comunidades indígenas de la Amazonia colombiana; 3) divulgar la producción investigativa del grupo en escenarios y publicaciones científicas nacionales y/o internacionales. Con respecto a la segunda etapa, referente al lustro 2020-2024, se busca 1) desarrollar propuestas y proyectos de investigación y/o investigación creación financiados con recursos externos; 2) incrementar el número de procesos y productos de investigación del grupo; 3) establecer mecanismos para el incremento y la consolidación de alianzas con diversos grupos de interés para la promoción de actividades de investigación científica, según lo establecido en los estatutos de la Fundación Ridcharí Indígena.
+
+### Estado del arte
+Durante la primera etapa de planeación estratégica (2015-2019) se pudo consolidar el reconocimiento institucional del grupo. Asimismo se desarrollaron actividades de investigación con uso de metodologías como la Investigación Acción Participativa (IAP), la observación participante y la cartografía social en municipios y comunidades amazónicas. Resultados de tales procesos fueron publicados en revistas científicas nacionales e internacionales. Además se elaboraron varios productos dirigidos a la divulgación y popularización de la ciencia en Colombia.
+
+### Objetivos
+
+#### General 
+Promover procesos de investigación científica y tecnológica que propendan por el mejoramiento de la calidad de vida y la participación ciudadana de las poblaciones más vulnerables socialmente, empresarios y comunidades, que posibiliten el bienestar comunitario y el desarrollo sostenible en los ámbitos de acción, organización y producción humana. 
+
+#### Específicos 
+1. Producir conocimiento científico y tecnológico sobre problemas contemporáneos de las poblaciones más vulnerables socialmente, empresarios y comunidades. 
+2. Fomentar la investigación científica y tecnológica con un enfoque participativo y social. 
+3. Incentivar el diálogo de saberes como forma de integrar el conocimiento occidental con el conocimiento ancestral. 
+4. Reflexionar sobre el desarrollo sostenible y su relación con las comunidades más vulnerables socialmente, empresarios y comunidades, especialmente en el contexto regional amazónico.
+
+### Retos 
+1. Incorporar mayor número de investigadores que dinamicen la producción científica del grupo. 
+2. Obtener recursos externos para la realización de proyectos y productos de investigación. 
+3. Posicionar el grupo de investigación en el contexto colombiano.
+
+### Visión 
+
+En 2024 el Grupo de Investigación Suma Yuyai es reconocido nacionalmente como referente en pesquisa e innovación sobre las poblaciones más vulnerables socialmente, empresarios y comunidades, contribuyendo así con una perspectiva de desarrollo y sostenibilidad para la región amazónica y el país. 
+
+### Líneas de investigación
+1. Comunicación, desarrollo y sostenibilidad
+2. Estudios sobre culturas indígenas
+3. Historiografías del Abya Yala
+
+### Área de conocimiento
+
+Ciencias Sociales -- Otras Ciencias Sociales -- Ciencias Sociales, Interdisciplinaria
+
+### Programa nacional de ciencia y tecnología
+
+Ciencia, Tecnología e Innovación en Ciencias Humanas, Sociales y Educación 

@@ -3,3 +3,6 @@ title: "Proyectos"
 ---
 
 Proyectos en desarrollo:
+
+1. [Veinte mil días de guerra](https://investiga.github.io/hgca/)
+2. Chequeo
