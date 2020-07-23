@@ -1,7 +1,7 @@
 name: "investigrafias"
 output_dir: "."
 navbar:
-  title: "INVESTIGRAFÍAS"
+  title: "SUMA YUYAI"
   left:
     - text: "Inicio"
       href: index.html
