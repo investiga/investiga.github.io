@@ -4,5 +4,5 @@ title: "Proyectos"
 
 Proyectos en desarrollo:
 
-1. [Historia gráfica del conflicto armado colombiano (1958-2018)](https://investiga.github.io/hgca/)
+1. [Colombia, una nación entre la paz y la guerra (1958-2018)](https://investiga.github.io/cnpg/)
 2. Chequeo
